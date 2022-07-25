@@ -42,7 +42,7 @@ const About = () => {
             <p>
             Business and managment profesional degree. Great working under high pressure enviroments and solving problems with creative solutions. 
             Recently i studied in SoyHenry Bootcamp FullStack Web-Development and got the Google Analytics Data Analyst Certificate, 
-            learning in deep R, Python, SQL Tableau and advanced excel.
+            learning in deep R, Python, SQL Tableau and advanced Excel.
             </p>
            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>

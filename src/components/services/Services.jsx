@@ -17,27 +17,17 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Write well designed, 
+                testable, efficient code by using best software development practices</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Cooperate with web designers to match visual design intent</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Relational database systems, 
+                Object Oriented Programming and web application development</p>
             </li>
           </ul>
         </article>
@@ -50,27 +40,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Report generation, data managment and patter recognition in the datasets</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Prescriptive, descriptive and predictive analysis</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Data cleaning and data visualization</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Automation of data manipulation</p>
             </li>
           </ul>
         </article>
@@ -83,27 +65,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Strong marketing skills </p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Strong overview of the financial, economics and logistics in any business industry</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Business planning and KPI oriented results</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Loren, impsum x x x </p>
+              <p>Deployment of short, mid and long term strategies</p>
             </li>
           </ul>
         </article>
