@@ -20,9 +20,9 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.linkedin.com/in/christian-calvanese-carril-985a3b70/?locale=en_US" target="_blank"><BsLinkedin/></a>
-        <a href="https://github.com/Christiansito" target="_blank"><FaGithub/></a>
-        <a href="https://www.kaggle.com/christiancalvanese" target="_blank"><FaKaggle/></a>
+        <a href="https://www.linkedin.com/in/christian-calvanese-carril-985a3b70/?locale=en_US" target="_blank" rel="noreferrer"><BsLinkedin/></a>
+        <a href="https://github.com/Christiansito" target="_blank" rel="noreferrer"><FaGithub/></a>
+        <a href="https://www.kaggle.com/christiancalvanese" target="_blank" rel="noreferrer"><FaKaggle/></a>
 
       </div>
     </footer>
